@@ -8,5 +8,4 @@ public class Main {
         game = new Football();
         game.play();
     }
-
 }
