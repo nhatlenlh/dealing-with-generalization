@@ -1,9 +1,13 @@
 package extractsubclass.beforechange;
 
-public class Employee extends Person {
-    private String jobTitle;
+public class Employee {
+    private int rate;
 
-    public String getJobTitle() {
-        return jobTitle;
+    public Employee(int rate) {
+        this.rate = rate;
+    }
+
+    public int getRate() {
+        return rate;
     }
 }
