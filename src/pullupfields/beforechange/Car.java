@@ -10,5 +10,5 @@ public class Car  extends Vehicle{
         name = "BMW";
         System.out.println(name);
     }
-
 }
+

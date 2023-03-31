@@ -8,6 +8,4 @@ public class Truck  extends Vehicle{
         age = "2018";
         System.out.println(age);
     }
-
-
 }

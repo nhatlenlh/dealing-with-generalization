@@ -10,6 +10,4 @@ public class Employee {
     private void setScore(String score) {
         this.score = score;
     }
-
-
 }
